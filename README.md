@@ -20,3 +20,7 @@
 ## 시사상식사전
 * 주시안
   * https://terms.naver.com/entry.nhn?docId=5661648&cid=43667&categoryId=43667
+
+## 건강백과
+* 눈을 깜빡이고 고개를 흔드는 틱 장애
+  * https://terms.naver.com/entry.naver?docId=2109376&cid=63166&categoryId=51023
