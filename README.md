@@ -24,3 +24,6 @@
 ## 건강백과
 * 눈을 깜빡이고 고개를 흔드는 틱 장애
   * https://terms.naver.com/entry.naver?docId=2109376&cid=63166&categoryId=51023
+
+## 서울아산병원 질환백과
+* [이명(Tinnitus)](https://www.amc.seoul.kr/asan/healthinfo/disease/diseaseDetail.do?contentId=32441)
